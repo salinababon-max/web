@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-1777806073334-qwu6rewmi">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Atribución y fichero descargable | ¿Te atreves a ver un eclipse?</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/download-source-file/download-source-file.js"></script><link rel="stylesheet" href="../idevices/download-source-file/download-source-file.css">
+<script src="../libs/fflate/fflate.umd.js"> </script>
+<script src="../libs/exe_elpx_download/exe_elpx_download.js"> </script>
+<script src="../libs/fflate/fflate.umd.js"> </script>
+<script src="../libs/exe_elpx_download/exe_elpx_download.js"> </script>
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-1777806073334-qwu6rewmi" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li class="current-page-parent"> <a href="../index.html" class="main-node daddy">¿Te atreves a ver un eclipse?</a>
+<ul class="other-section">
+<li> <a href="../html/1-intencion-educativa.html" class="no-ch">1. Intención educativa</a>
+</li>
+<li> <a href="../html/2-elementos-curriculares.html" class="no-ch">2. Elementos curriculares</a>
+</li>
+<li> <a href="../html/3-metodologias-activas.html" class="no-ch">3. Metodologías activas</a>
+</li>
+<li> <a href="../html/4-vinculacion-con-los-proyectos-y-programas-de-cen.html" class="no-ch">4. Vinculación con los proyectos y programas de centro:</a>
+</li>
+<li> <a href="../html/5-actividades-complementarias-extraescolares.html" class="no-ch">5. Actividades complementarias extraescolares</a>
+</li>
+<li class="active"> <a href="../html/atribucion-y-fichero-descargable.html" class="active no-ch">Atribución y fichero descargable</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav><main id="page-1777806073334-qwu6rewmi" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">¿Te atreves a ver un eclipse?</p></div>
+<div class="page-header"><h1 class="page-title">Atribución y fichero descargable</h1></div>
+</header><div id="page-content-page-1777806073334-qwu6rewmi" class="page-content">
+<article id="block-1777927110600-i0crv1sa9" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Descargar el archivo fuente</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1777927110599-jn14837cy" class="idevice_node download-source-file" data-idevice-path="../idevices/download-source-file/" data-idevice-type="download-source-file">
+<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td><span class="exe-prop-title">¿Te atreves a ver un eclipse?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td><span class="exe-prop-author">Salina Jacobs Babón</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="¿Te atreves a ver un eclipse?.elpx" href="#" onclick="if(typeof downloadElpx==='function')downloadElpx();return false;" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/5-actividades-complementarias-extraescolares.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<span class="nav-button nav-button-right" aria-hidden="true"><span>Siguiente</span></span>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+<script src="../libs/elpx-manifest.js"> </script>
+</body>
+</html>
